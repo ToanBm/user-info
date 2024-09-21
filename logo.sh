@@ -7,7 +7,6 @@ ooooooooooooo                                 oooooooooo.
      888      888   888  .oP"888   888   888   888    `88b  888   888   888  
      888      888   888 d8(  888   888   888   888    .88P  888   888   888  
     o888o     `Y8bod8P' `Y888""8o o888o o888o o888bood8P'  o888o o888o o888o 
-
 \e[0m"
 
 echo -e "\e[1;31m
